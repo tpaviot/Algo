@@ -1,3 +1,5 @@
+https://mybinder.org/v2/gh/tpaviot/Algo/HEAD?filepath=
+
 ### Extrait du référentiel
 
 3.3.4. Ressource R5.Real.04 : Qualité algorithmique
