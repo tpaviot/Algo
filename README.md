@@ -1,4 +1,6 @@
-https://mybinder.org/v2/gh/tpaviot/Algo/HEAD?filepath=
+Si la machine hôte ne dispose pas des bibliothèques requises, possibilité d'exécuter une instance de JupyterLab exécutée sur un container docker en ligne:
+
+https://mybinder.org/v2/gh/tpaviot/binderenv/HEAD?filepath=
 
 ### Extrait du référentiel
 
